@@ -334,3 +334,18 @@
     - SVRN/Donation_Receipt_8491.jpg
   charity_tx_id: ff76125789fcc6ab3dbafe67ff18d5a35dc8723e674ac00c697c27bf11831dd9
   
+- ticker: SVRN
+  announcement_url: https://sleepingnatives.org/donations.html
+  recipient:
+    name: Sleeping Natives Productions
+    address: 1611, Crenshaw Blvd., Suite 165, Torrance, CA, USA
+    tel: +1 310 961 4659
+    contact: philip@sleepingnatives.org
+  ada: 2,215.845495
+  usd: 545.49
+  timestamp: 1776170387
+  files:
+    - SVRN/22nd_SVRN_Rewards_Funds_Withdrawal.jpg
+    - SVRN/22nd_SVRN_Pledge_Increase.jpg
+    - SVRN/Donation_Receipt_8490.jpg
+  charity_tx_id: 0f721678e370600678b1178ef58b0a819d3724e833f23142d51db440ceae0742
